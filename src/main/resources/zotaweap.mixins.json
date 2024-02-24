@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.Zota0.zotaweap.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "Weaponery.refmap.json",
+  "mixins": [
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
